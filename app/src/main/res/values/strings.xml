@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AtividadeReflexiva</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sobre_txt">
+        O presente aplicativo foi elaborado para a atividade da disciplina de dispositivos móveis.\n\n Ele possui duas ferramentas, sendo elas:\n\n<b>&#8226; Calculadora:</b> Consiste em uma calculadora básica que realiza 4 operações (soma, divisão, subtração e multiplicação) entre dois valores.\n\n<b>&#8226; Calculadora de IMC:</b> Foi elaborada no formato de lista, utilizando recyclerview e cardview. Permite ao usuário calcular o imc (índice de massa corporal) de n pessoas.\n\n\n<b>Autor:</b> José Henrique Paiz Ecker\n\n<b>R.A:</b> 09033721\n\n<b>Disciplina:</b> Programação de dispositivos móveis
+    </string>
 </resources>

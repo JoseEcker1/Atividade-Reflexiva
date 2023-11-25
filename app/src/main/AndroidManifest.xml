@@ -13,8 +13,17 @@
         android:theme="@style/Theme.AtividadeReflexiva"
         tools:targetApi="31">
         <activity
+            android:name=".SobreActivity"
+            android:exported="false"
+            android:label="Sobre"/>
+        <activity
+            android:name=".ImcActivity"
+            android:exported="false"
+            android:label="Calculadora IMC"/>
+        <activity
             android:name=".MainActivity"
-            android:exported="true">
+            android:exported="true"
+            android:label="Calculadora">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
